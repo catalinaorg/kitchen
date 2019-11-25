@@ -1,7 +1,0 @@
----
-hostname: 127.0.0.1
-port: '2200'
-username: vagrant
-ssh_key: "/Users/catalina/Downloads/packer_xenial64/vagrant/.kitchen/kitchen-vagrant/default-catalina-box/.vagrant/machines/default/virtualbox/private_key"
-last_action: verify
-last_error: 
